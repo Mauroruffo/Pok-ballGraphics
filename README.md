@@ -8,3 +8,5 @@ Escena de Bosque: https://assetstore.unity.com/packages/3d/environments/landscap
 Asset de "Pokemon": https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-duo-pbr-polyart-157762
 
 Asset de Pokebola: https://www.turbosquid.com/AssetManager/Index.cfm?stgAction=getFiles&subAction=Download&intID=1709897&intType=3&csrf=51C56983C028905E10618B7E965CD6FA1456CC8B&showDownload=1&s=1
+
+Asset de Animaciones (Lanzar pokebola): https://assetstore.unity.com/packages/3d/animations/free-32-rpg-animations-215058
